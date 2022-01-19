@@ -1,3 +1,4 @@
+
 # The Paleolithic Era The Paleolithic (“Old Stone”)
 # start with homo habilis  2 million years before
 # end with the retreat of the last Ice Age (c. 10,500 years ago). 
